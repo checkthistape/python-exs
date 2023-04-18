@@ -41,7 +41,7 @@ def ack(m:int, n:int):
         n=ack(m,n-1)
         return ack(m-1,n)
 
-print(ack(2,0))
+print(ack(1,0))
 
 # Memoize the Ackermann function from Exercise 6.2
 # and see if memoization makes it possible to
