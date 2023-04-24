@@ -28,4 +28,12 @@ def distrib(n:int):
 # containing the number of occurrences of each
 # factor. Find what factor appears most often.
 #
+# Example:
+# Input:
+#   print(distrib(12))
+# Ouput:
+#   ([2, 2, 3], {2: 2, 3: 1})
+#  * ^          ^---all number of the occurences
+#    [__results of the dividing in steps
+#
 # by checkthistape (https://github.com/checkthistape)
