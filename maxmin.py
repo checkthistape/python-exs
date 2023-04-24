@@ -15,4 +15,11 @@ def maxmin(filename:str):
 # stores them in list (l), finds max and min of the 
 # numbers and return the result.
 #
+# Example:
+# Input:
+#   maxmin("2.txt")
+# Ouput:
+#   The smallest (min):  1
+#   The largest (max):  77
+#
 # by checkthistape (https://github.com/checkthistape)
