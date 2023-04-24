@@ -22,8 +22,10 @@ def func(n:int):
             g=rep.get(e)
             rep.update({e:g+1})
     return sorted(res), rep
-    
-    
-print(func(145))
 
-#by checkthistape (https://github.com/checkthistape)
+# Write a function that distributes the number
+# to the first factors and returns a dictionary
+# containing the number of occurrences of each
+# factor. Find what factor appears most often.
+#
+# by checkthistape (https://github.com/checkthistape)
