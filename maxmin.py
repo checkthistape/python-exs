@@ -14,3 +14,5 @@ def maxmin(filename:str):
 # Write a function reads the numbers in file (filename)
 # stores them in list (l), finds max and min of the 
 # numbers and return the result.
+#
+# by checkthistape (https://github.com/checkthistape)
