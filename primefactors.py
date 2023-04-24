@@ -1,4 +1,4 @@
-def func(n:int):
+def distrib(n:int):
     res:list[int]=[]
     rep:dict[int]={}
     while(n>1):
