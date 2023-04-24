@@ -7,9 +7,9 @@ def maxmin(filename:str):
         e=e.split()
         for ee in e:
             l.append(ee)
-    s_l=sorted(l)
-    print("The smallest (min): ",s_l[0])
-    print("The largest (max): ",s_l[-1])
+    sL=sorted(l)
+    print("The smallest (min): ",sL[0])
+    print("The largest (max): ",sL[-1])
     
 # Write a function reads the numbers in file (filename)
 # stores them in list (l), finds max and min of the 
